@@ -20,7 +20,7 @@ A primeira dificuldade na geração desse notebook foi fornecer as fontes de pes
 Com as fontes preparadas, perguntei ao modelo quais são as principais reações orgânicas que envolvem haletos de alquila. A resposta foi muito mais completa do que eu imaginei, trazendo várias reações das quais eu sequer lembrava da existência (como a formação de compostos de Grignard).
 Segui fazendo perguntas mais específicas das reações que eu gostaria de estudar, inclusive solicitando exemplos para eu treinar (ver exemplo abaixo).
 
-![Resposta_exemplo_Sn1](Imagens/Exemplo_macanismo.png)
+![Resposta_exemplo_Sn1](Imagens/Exemplo_mecanismo.png)
 
 Embora o exemplo gerado seja muito significativo, ele é puramente textual. Pedi então à IA que gerasse imagens estruturais das espécies químicas envolvidas. Como ela se mostrou incapaz de atender esse pedido (ver imagem abaixo) solicitei a criação de algumas apresentações de slide para suportar o estudo.
 
