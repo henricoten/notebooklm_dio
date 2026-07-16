@@ -24,6 +24,6 @@ Segui fazendo perguntas mais específicas das reações que eu gostaria de estud
 
 Embora o exemplo gerado seja muito significativo, ele é puramente textual. Pedi então à IA que gerasse imagens estruturais das espécies químicas envolvidas. Como ela se mostrou incapaz de atender esse pedido (ver imagem abaixo) solicitei a criação de algumas apresentações de slide para suportar o estudo.
 
-![Mensagem de erro ao acessar site ChemLibreTexts](caminho-ou-url-da-imagem.jpg)
+![Resposta_pedido_imagens](Imagens/Falha_gerar_imagens.png)
 
 As apresentações geradas estão disponíveis tanto neste repositório (em formato PDF) quanto diretamente através da URL o notebook (https://notebooklm.google.com/notebook/acffe99f-cc75-4ffa-b2d9-b930bdd83119). 
