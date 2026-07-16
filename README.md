@@ -26,4 +26,4 @@ Embora o exemplo gerado seja muito significativo, ele é puramente textual. Pedi
 
 ![Resposta_pedido_imagens](Imagens/Falha_gerar_imagens.png)
 
-As apresentações geradas estão disponíveis tanto neste repositório (em formato PDF) quanto diretamente através da URL o notebook (https://notebooklm.google.com/notebook/acffe99f-cc75-4ffa-b2d9-b930bdd83119). 
+As apresentações geradas estão disponíveis tanto neste repositório (em formato PDF) quanto diretamente através da URL do notebook (https://notebooklm.google.com/notebook/acffe99f-cc75-4ffa-b2d9-b930bdd83119). 
